@@ -8,7 +8,7 @@ Welcome to Medixus, a revolutionary healthcare platform leveraging technology an
 
 # EXPLORE YOUR WELL-BEING: VISIT Medixus TODAY!
 
-**PROJECT ON AZURE:** https://jolly-dune-0e4212a10.5.azurestaticapps.net/
+**PROJECT ON AZURE:** https://white-plant-0e7d02e00.5.azurestaticapps.net/
 
 # PURPOSE
 
@@ -162,7 +162,7 @@ Azure will deploy your static web app. Wait for the deployment to complete.
 *7. Access Your Website:*
 Once deployed, go to the Static Web Apps resource in the Azure Portal, find the "URL" under the "Overview" section, and access your website.
 
-**MY WEBSITE URL :** https://jolly-dune-0e4212a10.5.azurestaticapps.net/
+**MY WEBSITE URL :** https://white-plant-0e7d02e00.5.azurestaticapps.net/
 
 ![image](https://github.com/sambhit12/Medixus-HealthCare/blob/ede874ff17e25989ecfe253de64241d3203b5443/assets/website/Medixus-StaticWebApp.png)
 
